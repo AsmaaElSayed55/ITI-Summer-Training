@@ -1,0 +1,14 @@
+C:\ITI\C#\Session_4\bin\Debug\net9.0\Session_4.exe
+C:\ITI\C#\Session_4\bin\Debug\net9.0\Session_4.deps.json
+C:\ITI\C#\Session_4\bin\Debug\net9.0\Session_4.runtimeconfig.json
+C:\ITI\C#\Session_4\bin\Debug\net9.0\Session_4.dll
+C:\ITI\C#\Session_4\bin\Debug\net9.0\Session_4.pdb
+C:\ITI\C#\Session_4\obj\Debug\net9.0\Session_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITI\C#\Session_4\obj\Debug\net9.0\Session_4.AssemblyInfoInputs.cache
+C:\ITI\C#\Session_4\obj\Debug\net9.0\Session_4.AssemblyInfo.cs
+C:\ITI\C#\Session_4\obj\Debug\net9.0\Session_4.csproj.CoreCompileInputs.cache
+C:\ITI\C#\Session_4\obj\Debug\net9.0\Session_4.dll
+C:\ITI\C#\Session_4\obj\Debug\net9.0\refint\Session_4.dll
+C:\ITI\C#\Session_4\obj\Debug\net9.0\Session_4.pdb
+C:\ITI\C#\Session_4\obj\Debug\net9.0\Session_4.genruntimeconfig.cache
+C:\ITI\C#\Session_4\obj\Debug\net9.0\ref\Session_4.dll

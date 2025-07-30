@@ -1,0 +1,14 @@
+C:\ITI\C#\Session_5\bin\Debug\net9.0\Session_5.exe
+C:\ITI\C#\Session_5\bin\Debug\net9.0\Session_5.deps.json
+C:\ITI\C#\Session_5\bin\Debug\net9.0\Session_5.runtimeconfig.json
+C:\ITI\C#\Session_5\bin\Debug\net9.0\Session_5.dll
+C:\ITI\C#\Session_5\bin\Debug\net9.0\Session_5.pdb
+C:\ITI\C#\Session_5\obj\Debug\net9.0\Session_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITI\C#\Session_5\obj\Debug\net9.0\Session_5.AssemblyInfoInputs.cache
+C:\ITI\C#\Session_5\obj\Debug\net9.0\Session_5.AssemblyInfo.cs
+C:\ITI\C#\Session_5\obj\Debug\net9.0\Session_5.csproj.CoreCompileInputs.cache
+C:\ITI\C#\Session_5\obj\Debug\net9.0\Session_5.dll
+C:\ITI\C#\Session_5\obj\Debug\net9.0\refint\Session_5.dll
+C:\ITI\C#\Session_5\obj\Debug\net9.0\Session_5.pdb
+C:\ITI\C#\Session_5\obj\Debug\net9.0\Session_5.genruntimeconfig.cache
+C:\ITI\C#\Session_5\obj\Debug\net9.0\ref\Session_5.dll

@@ -1,0 +1,14 @@
+C:\ITI\C#\Session_2\bin\Debug\net9.0\Session_2.exe
+C:\ITI\C#\Session_2\bin\Debug\net9.0\Session_2.deps.json
+C:\ITI\C#\Session_2\bin\Debug\net9.0\Session_2.runtimeconfig.json
+C:\ITI\C#\Session_2\bin\Debug\net9.0\Session_2.dll
+C:\ITI\C#\Session_2\bin\Debug\net9.0\Session_2.pdb
+C:\ITI\C#\Session_2\obj\Debug\net9.0\Session_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITI\C#\Session_2\obj\Debug\net9.0\Session_2.AssemblyInfoInputs.cache
+C:\ITI\C#\Session_2\obj\Debug\net9.0\Session_2.AssemblyInfo.cs
+C:\ITI\C#\Session_2\obj\Debug\net9.0\Session_2.csproj.CoreCompileInputs.cache
+C:\ITI\C#\Session_2\obj\Debug\net9.0\Session_2.dll
+C:\ITI\C#\Session_2\obj\Debug\net9.0\refint\Session_2.dll
+C:\ITI\C#\Session_2\obj\Debug\net9.0\Session_2.pdb
+C:\ITI\C#\Session_2\obj\Debug\net9.0\Session_2.genruntimeconfig.cache
+C:\ITI\C#\Session_2\obj\Debug\net9.0\ref\Session_2.dll
