@@ -1,0 +1,14 @@
+C:\ITI\C#\Session_1\bin\Debug\net9.0\Session_1.exe
+C:\ITI\C#\Session_1\bin\Debug\net9.0\Session_1.deps.json
+C:\ITI\C#\Session_1\bin\Debug\net9.0\Session_1.runtimeconfig.json
+C:\ITI\C#\Session_1\bin\Debug\net9.0\Session_1.dll
+C:\ITI\C#\Session_1\bin\Debug\net9.0\Session_1.pdb
+C:\ITI\C#\Session_1\obj\Debug\net9.0\Session_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITI\C#\Session_1\obj\Debug\net9.0\Session_1.AssemblyInfoInputs.cache
+C:\ITI\C#\Session_1\obj\Debug\net9.0\Session_1.AssemblyInfo.cs
+C:\ITI\C#\Session_1\obj\Debug\net9.0\Session_1.csproj.CoreCompileInputs.cache
+C:\ITI\C#\Session_1\obj\Debug\net9.0\Session_1.dll
+C:\ITI\C#\Session_1\obj\Debug\net9.0\refint\Session_1.dll
+C:\ITI\C#\Session_1\obj\Debug\net9.0\Session_1.pdb
+C:\ITI\C#\Session_1\obj\Debug\net9.0\Session_1.genruntimeconfig.cache
+C:\ITI\C#\Session_1\obj\Debug\net9.0\ref\Session_1.dll
