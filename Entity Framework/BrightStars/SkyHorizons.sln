@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightStars", "BrightStars.csproj", "{BE82C3A5-4813-4550-861D-15F6832114E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_One", "..\Assignment_One\Assignment_One.csproj", "{00178F66-B4E9-4042-B834-7A128FBA06F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE82C3A5-4813-4550-861D-15F6832114E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE82C3A5-4813-4550-861D-15F6832114E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE82C3A5-4813-4550-861D-15F6832114E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE82C3A5-4813-4550-861D-15F6832114E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00178F66-B4E9-4042-B834-7A128FBA06F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00178F66-B4E9-4042-B834-7A128FBA06F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00178F66-B4E9-4042-B834-7A128FBA06F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00178F66-B4E9-4042-B834-7A128FBA06F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2A9BA1-1FF9-4CAA-93E4-C6E2E461959B}
+	EndGlobalSection
+EndGlobal
