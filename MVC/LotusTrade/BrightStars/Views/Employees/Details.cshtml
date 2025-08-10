@@ -1,0 +1,14 @@
+﻿@model Employee
+
+<dl class="row">
+    <dt class="col-2"> Id </dt>
+    <dd class="col-10"> @Model.Id </dd>
+    <dt class="col-2"> FullName </dt>
+    <dd class="col-10"> @Model.FullName </dd>
+    <dt class="col-2"> Position </dt>
+    <dd class="col-10"> @Model.Position </dd>
+    <dt class="col-2"> Salary </dt>
+    <dd class="col-10"> @Model.Salary </dd>
+</dl>
+
+<a asp-controller="Employees" asp-action="GetIndexView"> Back To List </a>
