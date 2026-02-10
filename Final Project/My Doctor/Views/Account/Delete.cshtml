@@ -1,0 +1,13 @@
+@model My_Doctor.Models.User
+
+<h2>Delete User</h2>
+<div>
+    <p>Are you sure you want to delete this user?</p>
+    <div><strong>Username:</strong> @Model.Username</div>
+    <div><strong>Email:</strong> @Model.Email</div>
+</div>
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

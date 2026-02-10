@@ -1,0 +1,24 @@
+@model IEnumerable<My_Doctor.Models.Appointment>
+
+<h2>My Appointments</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Doctor</th>
+            <th>Date</th>
+            <th>Status</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var app in Model)
+        {
+            <tr>
+                <td>@app.Doctor?.Username</td>
+                <td>@app.Date.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>@app.Status</td>
+                <td>@app.Notes</td>
+            </tr>
+        }
+    </tbody>
+</table>
